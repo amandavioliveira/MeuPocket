@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MeuPocket</string>
+    <string name="tag">LOGIN_LOCAL</string>
+    <string name="hint_titulo">Digite o título do site</string>
+    <string name="hint_endereco">Digite o endereço do site</string>
+    <string name="adicionarSite">ADICIONAR</string>
+    <string name="key_titulo">TITULO</string>
+    <string name="key_endereco">ENDERECO</string>
+    <string name="key_sites_db">SITES</string>
+    <string name="file_preferences">loginlocal.preferencias</string>
+    <string name="file_sites">loginlocal.sites</string>
+    <string name="erro_recupera_lista">Erro ao recuperar lista de sites cadastrados.</string>
+</resources>
